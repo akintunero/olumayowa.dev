@@ -16,12 +16,13 @@ I'm Enthusiastic about #LINUX, DevOps, Automation, and the Cloud Space. I have s
 
   <h2> Skills </h2>
 <a href="https://pypi.org/project/GITHUB"><img src="https://img.shields.io/badge/-GITHUB-171515?logo=github&logoColor=black" alt="dependency - GITHUB"></a> 
-<a href="https://pypi.org/project/GIT"><img src="https://img.shields.io/badge/dependency-GIT-3E2C00?logo=git&logoColor=black" alt="dependency - GIT"></a> 
+<a href="https://pypi.org/project/GIT"><img src="https://img.shields.io/badge/-GIT-3E2C00?logo=git&logoColor=black" alt="dependency - GIT"></a> 
 <a href="https://pypi.org/project/TERRAFORM"><img src="https://img.shields.io/badge/dependency-TERRAFORM-purple?logo=Terraform&logoColor=black" alt="dependency - TERRAFORM"></a>
-  <a href="https://pypi.org/project/ANSIBLE"><img src="https://img.shields.io/badge/dependency-ANSIBLE-blue?logo=ANSIBLE&logoColor=black" alt="dependency - ANSIBLE"></a>
-<a href="https://pypi.org/project/MongoDB"><img src="https://img.shields.io/badge/dependency-MongoDB-blue?logo=mongodb&logoColor=black" alt="dependency - MongoDB"></a>
-<a href="https://pypi.org/project/Docker"><img src="https://img.shields.io/badge/dependency-Docker-blue?logo=docker&logoColor=black" alt="dependency - Docker"></a>
-<a href="https://pypi.org/project/AWS"><img src="https://img.shields.io/badge/dependency-AWS-FF9900?logo=amazon&logoColor=black" alt="dependency - AWS"></a>
+  <a href="https://pypi.org/project/ANSIBLE"><img src="https://img.shields.io/badge/-ANSIBLE-blue?logo=ANSIBLE&logoColor=black" alt="dependency - ANSIBLE"></a>
+<a href="https://pypi.org/project/MongoDB"><img src="https://img.shields.io/badge/-MongoDB-blue?logo=mongodb&logoColor=black" alt="dependency - MongoDB"></a>
+<a href="https://pypi.org/project/Docker"><img src="https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=black" alt="dependency - Docker"></a>
+<a href="https://pypi.org/project/AWS"><img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon&logoColor=black" alt="dependency - AWS"></a>
+  <a href="https://pypi.org/project/Kubernetes"><img src="https://img.shields.io/badge/-Kubernetes-blue?logo=Kubernetes&logoColor=3970e4" alt="dependency - Kubernetes"></a>
 
 
 
