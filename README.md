@@ -14,7 +14,7 @@ I'm Enthusiastic about LINUX, DevOps, Automation, and the Cloud Space. I have sp
   
   <br>
 <p>
-I am available and open to collaborating on DevOps Projects and roles botj On-site and remote and I can be reached via <a href="akintunero101@gmail.com">akintunero101@gmail.com</a><br></p>
+I am available and open to collaborating on DevOps Projects and roles both On-site and remote and I can be reached via <a href="akintunero101@gmail.com">akintunero101@gmail.com</a><br></p>
   
   <p>
   </br>
