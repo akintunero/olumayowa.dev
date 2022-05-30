@@ -15,7 +15,7 @@ I'm Enthusiastic about #LINUX, DevOps, Automation and the Cloud Space. I have sp
 
 
 
-![](https://img.shields.io/badge/<OS>-<LINUX>-informational?style=flat&logo=<#FCC624>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<OS>-<LINUX>-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a)
 
 
 <div id="badges">
