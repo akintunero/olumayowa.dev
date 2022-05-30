@@ -9,7 +9,8 @@
 
 I'm Olúmáyòwá Akinkuehinmi, I have my head in the <img src="https://img.icons8.com/emoji/30/000000/cloud-emoji.png"/>
 
-I'm a Linux, Cloud and an Automation Enthusiast.
+I'm Enthusiastic about #LINUX, DevOps, Automation and the Cloud Space. I have spent a few year as an Submarine Optical Network Engineer helping content providers move their contents from Europe to Africa via the Submarine cable system and I have been able to delivery over 1.2Tbps of bandwidth on the Submarine and Terrestrial Optical system. 
+  I have always had interest in building hence me finding my way towards the Cloud and DevOps space.
   </p>
   
 
