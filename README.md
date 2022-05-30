@@ -14,7 +14,7 @@ I'm Enthusiastic about LINUX, DevOps, Automation, and the Cloud Space. I have sp
   
   <br>
 <p>
-I am available and open to collaborating on DevOps Projects and roles but Onsite and remote and I can be reached via <a href="akintunero101@gmail.com">akintunero101@gmail.com</a><br></p>
+I am available and open to collaborating on DevOps Projects and roles botj On-site and remote and I can be reached via <a href="akintunero101@gmail.com">akintunero101@gmail.com</a><br></p>
   
   <p>
   </br>
@@ -38,8 +38,8 @@ I am available and open to collaborating on DevOps Projects and roles but Onsite
   <a href="https://pypi.org/project/YAML"><img src="https://img.shields.io/badge/-YAML-blue?logo=yaml&logoColor=black" alt="dependency - YAML"></a>
   <a href="https://pypi.org/project/Vagrant"><img src="https://img.shields.io/badge/-Vagrant-blue?logo=vagrant&logoColor=black" alt="dependency - Vagrant"></a>
   <a href="https://pypi.org/project/Prometheus"><img src="https://img.shields.io/badge/-Prometheus-orange?logo=prometheus&logoColor=black" alt="dependency - Prometheus"></a>
-<a href="https://pypi.org/project/Nagios"><img src="https://img.shields.io/badge/-Nagios-black?logo=prometheus&logoColor=black" alt="dependency - Nagios"></a>
-  <a href="https://pypi.org/project/Unix"><img src="https://img.shields.io/badge/-Unix-black?logo=Unix&logoColor=black" alt="dependency - Unix"></a>
+<a href="https://pypi.org/project/Nagios"><img src="https://img.shields.io/badge/-Nagios-blue?logo=prometheus&logoColor=black" alt="dependency - Nagios"></a>
+  <a href="https://pypi.org/project/Unix"><img src="https://img.shields.io/badge/-Unix-blue?logo=Unix&logoColor=black" alt="dependency - Unix"></a>
 
   </br>
   
