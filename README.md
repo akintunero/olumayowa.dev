@@ -8,8 +8,12 @@
 
 <article class="markdown-body entry-content container-lg f5" itemprop="text"> I'm Olúmáyòwá Akinkuehinmi and I have my head in the <img src="https://img.icons8.com/emoji/30/000000/cloud-emoji.png"/>
 
+<br>
+
 I'm Enthusiastic about #LINUX, DevOps, Automation, and the Cloud Space. I have spent a few years as a Submarine Optical Network Engineer helping content providers move their content from Europe to Africa via the Submarine cable system. I have been able to deliver over 1.2Tbps of bandwidth on the Submarine and Terrestrial Optical systems. 
   I have always been interested in building hence me finding my way towards the Cloud and DevOps space.
+
+I am available and open to collaborating on DevOps Projects and roles but Onsite and remote and I can be reached via akintunero101@gmail.com
   
   
   <br>
