@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
 </div>
 \# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
@@ -43,7 +43,7 @@ I am available and open to collaborating on DevOps Projects and roles but Onsite
 
   </br>
   
-  <h2> GITHUB Stats </h2>
+  <h2> GitHub Stats </h2>
   
   ![akintunero's Stats](https://github-readme-stats.vercel.app/api?username=akintunero&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
   
