@@ -15,10 +15,13 @@ I'm Enthusiastic about #LINUX, DevOps, Automation, and the Cloud Space. I have s
   <br>
 
   <h2> Skills </h2>
-<a href="https://pypi.org/project/GITHUB"><img src="https://img.shields.io/badge/dependency-GITHUB-blue?logo=github&logoColor=black" alt="dependency - GITHUB"></a> 
-<a href="https://pypi.org/project/GIT"><img src="https://img.shields.io/badge/dependency-GIT-blue?logo=git&logoColor=black" alt="dependency - GIT"></a> 
-<a href="https://pypi.org/project/TERRAFORM"><img src="https://img.shields.io/badge/dependency-TERRAFORM-blue?logo=Terraform&logoColor=black" alt="dependency - TERRAFORM"></a>
+<a href="https://pypi.org/project/GITHUB"><img src="https://img.shields.io/badge/dependency-GITHUB-171515?logo=github&logoColor=black" alt="dependency - GITHUB"></a> 
+<a href="https://pypi.org/project/GIT"><img src="https://img.shields.io/badge/dependency-GIT-3E2C00?logo=git&logoColor=black" alt="dependency - GIT"></a> 
+<a href="https://pypi.org/project/TERRAFORM"><img src="https://img.shields.io/badge/dependency-TERRAFORM-purple?logo=Terraform&logoColor=black" alt="dependency - TERRAFORM"></a>
   <a href="https://pypi.org/project/ANSIBLE"><img src="https://img.shields.io/badge/dependency-ANSIBLE-blue?logo=ANSIBLE&logoColor=black" alt="dependency - ANSIBLE"></a>
+<a href="https://pypi.org/project/MongoDB"><img src="https://img.shields.io/badge/dependency-MongoDB-blue?logo=mongodb&logoColor=black" alt="dependency - MongoDB"></a>
+<a href="https://pypi.org/project/Docker"><img src="https://img.shields.io/badge/dependency-Docker-blue?logo=docker&logoColor=black" alt="dependency - Docker"></a>
+<a href="https://pypi.org/project/AWS"><img src="https://img.shields.io/badge/dependency-AWS-FF9900?logo=amazon&logoColor=black" alt="dependency - AWS"></a>
 
 
 
