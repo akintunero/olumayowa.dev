@@ -2,8 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-\# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Olúmáyòwá Akinkuehinmi
+\# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Olúmáyòwá Akinkuehinmi, I got my head in the <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/cloud.gif" width="30px">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<akintunero>&theme=<THEME_NAME>" />
 <div id="badges">
