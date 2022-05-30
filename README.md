@@ -14,8 +14,7 @@ I'm Enthusiastic about #LINUX, DevOps, Automation and the Cloud Space. I have sp
   
   <br>
 
-
-   [ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akintunero&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727)](https://git.io/streak-stats)](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white))
+<a href="https://pypi.org/project/Terraform"><img src="https://img.shields.io/badge/dependency-Terraform-blue?logo=Terraform&logoColor=black" alt="dependency - Terraform"></a>
   
 <div id="badges">
   <a href="https://www.linkedin.com/in/aolumayowa/">
