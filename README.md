@@ -44,12 +44,11 @@ I am available and open to collaborating on DevOps Projects and roles but Onsite
   </br>
   
   <h2> GITHUB Stats </h2>
-  <br>
+  
   ![akintunero's Stats](https://github-readme-stats.vercel.app/api?username=akintunero&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  </br>
-  <br>
+ 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-  </br>
+
   
 <h2> Connect with me </h2>
   <b>
