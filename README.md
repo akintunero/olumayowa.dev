@@ -12,8 +12,12 @@
 
 I'm Enthusiastic about #LINUX, DevOps, Automation, and the Cloud Space. I have spent a few years as a Submarine Optical Network Engineer helping content providers move their content from Europe to Africa via the Submarine cable system. I have been able to deliver over 1.2Tbps of bandwidth on the Submarine and Terrestrial Optical systems. 
   I have always been interested in building hence me finding my way towards the Cloud and DevOps space.
-
+  
+  <br>
+<p>
 I am available and open to collaborating on DevOps Projects and roles but Onsite and remote and I can be reached via akintunero101@gmail.com
+  <p>
+  </br>
   
   
   <br>
@@ -30,7 +34,7 @@ I am available and open to collaborating on DevOps Projects and roles but Onsite
 <a href="https://pypi.org/project/Python"><img src="https://img.shields.io/badge/-Python-4B8BBE?logo=Python&logoColor=black" alt="dependency - Python"></a>
 <a href="https://pypi.org/project/Visual Studio Code"><img src="https://img.shields.io/badge/-Visual_Studio_Code-blue?logo=Visual-Studio-Code&logoColor=black" alt="dependency - Visual Studio Code">
   <a href="https://pypi.org/project/Linux"><img src="https://img.shields.io/badge/-Linux-yellow?logo=Linux&logoColor=black" alt="dependency - Linux"></a>
-  <a href="https://pypi.org/project/Jenkins"><img src="https://img.shields.io/badge/dependency-Jenkins-335061?logo=Jenkins&logoColor=black" alt="dependency - Jenkins"></a>
+  <a href="https://pypi.org/project/Jenkins"><img src="https://img.shields.io/badge/-Jenkins-335061?logo=Jenkins&logoColor=black" alt="dependency - Jenkins"></a>
   <a href="https://pypi.org/project/YAML"><img src="https://img.shields.io/badge/-YAML-blue?logo=yaml&logoColor=black" alt="dependency - YAML"></a>
   <a href="https://pypi.org/project/Vagrant"><img src="https://img.shields.io/badge/-Vagrant-blue?logo=vagrant&logoColor=black" alt="dependency - Vagrant"></a>
   <a href="https://pypi.org/project/Prometheus"><img src="https://img.shields.io/badge/-Prometheus-orange?logo=prometheus&logoColor=black" alt="dependency - Prometheus"></a>
