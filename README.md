@@ -46,7 +46,9 @@ I am available and open to collaborating on DevOps Projects and roles but Onsite
   <h2> GITHUB Stats </h2>
   
   ![akintunero's Stats](https://github-readme-stats.vercel.app/api?username=akintunero&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  
   ![akintunero's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akintunero&theme=vue-dark&hide_border=true)
+  
   ![akintunero's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akintunero&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
   
