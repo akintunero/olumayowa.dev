@@ -14,7 +14,18 @@ I'm Enthusiastic about #LINUX, DevOps, Automation and the Cloud Space. I have sp
   
   <br>
 
-<a href="https://pypi.org/project/Terraform"><img src="https://img.shields.io/badge/dependency-Terraform-blue?logo=Terraform&logoColor=black" alt="dependency - Terraform"></a>
+  <h2> Skills </h2>
+<a href="https://pypi.org/project/GITHUB"><img src="https://img.shields.io/badge/dependency-GITHUB-blue?logo=github&logoColor=black" alt="dependency - GITHUB"></a>
+
+ <a href="https://pypi.org/project/GIT"><img src="https://img.shields.io/badge/dependency-GIT-blue?logo=git&logoColor=black" alt="dependency - GIT"></a>
+  
+ <a href="https://pypi.org/project/TERRAFORM"><img src="https://img.shields.io/badge/dependency-TERRAFORM-blue?logo=Terraform&logoColor=black" alt="dependency - TERRAFORM"></a>
+  
+  <a href="https://pypi.org/project/ANSIBLE"><img src="https://img.shields.io/badge/dependency-ANSIBLE-blue?logo=ANSIBLE&logoColor=black" alt="dependency - ANSIBLE"></a>
+
+
+
+
   
 <div id="badges">
   <a href="https://www.linkedin.com/in/aolumayowa/">
