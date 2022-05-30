@@ -3,10 +3,10 @@
 </div>
 \# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-<!DOCTYPE html>
 <p>
-
+<br>
 <article class="markdown-body entry-content container-lg f5" itemprop="text"> I'm Olúmáyòwá Akinkuehinmi and I have my head in the <img src="https://img.icons8.com/emoji/30/000000/cloud-emoji.png"/> 
+  </br>
   </p>
 
 <br>
