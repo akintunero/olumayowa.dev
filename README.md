@@ -2,7 +2,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-\# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Olúmáyòwá Akinkuehinmi, I have my head in the <img src="https://img.icons8.com/emoji/30/000000/cloud-emoji.png"/>.
+\# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+I'm Olúmáyòwá Akinkuehinmi, I have my head in the <img src="https://img.icons8.com/emoji/30/000000/cloud-emoji.png"/>.
+I'm a Linux, Cloud and an Automation Enthusiast.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<akintunero>&theme=<THEME_NAME>" />
 <div id="badges">
