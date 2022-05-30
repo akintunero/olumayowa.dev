@@ -38,7 +38,7 @@ I am available and open to collaborating on DevOps Projects and roles botj On-si
   <a href="https://pypi.org/project/YAML"><img src="https://img.shields.io/badge/-YAML-blue?logo=yaml&logoColor=black" alt="dependency - YAML"></a>
   <a href="https://pypi.org/project/Vagrant"><img src="https://img.shields.io/badge/-Vagrant-blue?logo=vagrant&logoColor=black" alt="dependency - Vagrant"></a>
   <a href="https://pypi.org/project/Prometheus"><img src="https://img.shields.io/badge/-Prometheus-orange?logo=prometheus&logoColor=black" alt="dependency - Prometheus"></a>
-<a href="https://pypi.org/project/Nagios"><img src="https://img.shields.io/badge/-Nagios-blue?logo=prometheus&logoColor=black" alt="dependency - Nagios"></a>
+<a href="https://pypi.org/project/Nagios"><img src="https://img.shields.io/badge/-Nagios-blue?logo=nagios&logoColor=black" alt="dependency - Nagios"></a>
   <a href="https://pypi.org/project/Unix"><img src="https://img.shields.io/badge/-Unix-blue?logo=Unix&logoColor=black" alt="dependency - Unix"></a>
 
   </br>
