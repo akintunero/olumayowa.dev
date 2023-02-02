@@ -12,7 +12,7 @@
 
 <br>
 
-I'm Enthusiastic about LINUX, DevOps, Automation, and the Cloud Space. I have spent a few years as a Submarine Optical Network Engineer helping content providers move their content from Europe to Africa via the Submarine cable system. I have been able to deliver over 1.2Tbps of bandwidth on the Submarine and Terrestrial Optical systems. 
+I'm Enthusiastic about Linux, DevOps, Automation, and the Cloud Space. I have spent a few years as a Submarine Optical Network Engineer helping content providers move their content from Europe to Africa via the Submarine cable system. I have been able to deliver over 1.2Tbps of bandwidth on the Submarine and Terrestrial Optical systems. 
   I have always been interested in building hence me finding my way towards the Cloud and DevOps space.
   
   <br>
