@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>https://olumayowa.dev/blog/</loc>
+            <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://olumayowa.dev/blog/installing-ubuntu-on-bare-metal/</loc>
+            <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://olumayowa.dev/</loc>
+            <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://olumayowa.dev/blog/how-i-discovered-i-have-adhd/</loc>
+            <lastmod>2023-12-13T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://olumayowa.dev/about/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://olumayowa.dev/talks/africacyberfest/</loc>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://olumayowa.dev/talks/</loc>
+          </url>
+    
+  
+</urlset>

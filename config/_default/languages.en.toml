@@ -1,0 +1,31 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+
+title = "Olúmáyòwá.dev"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+
+[params]
+rtl = false
+isoCode = "en"
+displayName = "EN"
+dateFormat = "January 2, 2006"
+description = "Olúmáyòwá Akinkuehinmi"
+# mainSections = ["section1", "section2"]
+
+[author]
+bio = "DevOps • Submarine Cable Networks • DevNet"
+name = "Olúmáyòwá Akinkuehinmi"
+image = "img/author.jpg"
+headline = "DevOps • Submarine Cable Networks • DevNet"
+links = [
+    { email = "mailto:olumayowa@olumayowa.dev" },
+    { github = "https://github.com/akintunero" },
+    { linkedin = "https://linkedin.com/in/olumayowaa" },
+    { substack = "https://akintunero.substack.com/" },
+    { telegram = "https://t.me/akintunero" },
+    { spotify = "https://t.me/akintunero" },
+    { x-twitter = "https://twitter.com/akintunero" }
+
+]

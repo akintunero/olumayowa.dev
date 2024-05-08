@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://olumayowa.dev/sitemap.xml
