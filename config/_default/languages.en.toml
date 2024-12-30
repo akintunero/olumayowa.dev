@@ -15,10 +15,10 @@ description = "Olúmáyòwá Akinkuehinmi"
 # mainSections = ["section1", "section2"]
 
 [author]
-bio = "DevOps • Submarine Cable Networks • DevNet"
+bio = "DevOps • Submarine Cable Networks • DevNet • CyberSecurity"
 name = "Olúmáyòwá Akinkuehinmi"
 image = "img/author.jpg"
-headline = "DevOps • Submarine Cable Networks • DevNet"
+headline = "DevOps • Submarine Cable Networks • DevNet • CyberSecurity"
 links = [
     { email = "mailto:olumayowa@olumayowa.dev" },
     { github = "https://github.com/akintunero" },
