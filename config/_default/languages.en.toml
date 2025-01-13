@@ -20,12 +20,11 @@ name = "Olúmáyòwá Akinkuehinmi"
 image = "img/author.jpg"
 headline = "DevOps • Submarine Cable Networks • DevNet • CyberSecurity"
 links = [
-    { email = "mailto:olumayowa@olumayowa.dev" },
-    { github = "https://github.com/akintunero" },
-    { linkedin = "https://linkedin.com/in/olumayowaa" },
-    { substack = "https://akintunero.substack.com/" },
-    { telegram = "https://t.me/akintunero" },
-    { spotify = "https://t.me/akintunero" },
-    { x-twitter = "https://twitter.com/akintunero" }
-
+    { name = "email", url = "mailto:olumayowa@olumayowa.dev" },
+    { name = "github", url = "https://github.com/akintunero" },
+    { name = "linkedin", url = "https://linkedin.com/in/olumayowaa" },
+    { name = "substack", url = "https://akintunero.substack.com/" },
+    { name = "telegram", url = "https://t.me/akintunero" },
+    { name = "spotify", url = "https://open.spotify.com/user/your_profile" }, # Corrected Spotify
+    { name = "twitter", url = "https://x.com/akintunero" } # Fixed key name
 ]

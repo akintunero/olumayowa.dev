@@ -20,7 +20,7 @@ target = "_blank"
 name = "podcast"
 url = "https://podcasters.spotify.com/pod/show/"
 weight = 50
-[menu.main.params]
+[params]
 target = "_blank"
 
 [[menu.main]]
@@ -32,7 +32,7 @@ weight = 60
 name = "projects"
 url = "https://github.com/akintunero/"
 weight = 70
-[menu.main.params]
+[params]
 target = "_blank"
 
 [[menu.main]]
