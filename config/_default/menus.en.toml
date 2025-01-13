@@ -34,3 +34,8 @@ url = "https://github.com/akintunero/"
 weight = 70
 [menu.main.params]
 target = "_blank"
+
+[[menu.main]]
+name = "Press Features"
+pageRef = "/press/"
+weight = 80
