@@ -5,27 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e407361-8321-4a88-bf11-a7da084cfac0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/microsegmentation-market-growth.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/zero-trust-adoption.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/blog/a-new-era-of-network-security/_index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/how-i-discovered-i-have-adhd/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/how-i-discovered-i-have-adhd/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/blog/a-new-era-of-network-security/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/a-new-era-of-network-security/_index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/blog/transforming-the-future-of-wireless-connectivity/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/transforming-the-future-of-wireless-connectivity/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blog/how-i-discovered-i-have-adhd/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/how-i-discovered-i-have-adhd/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blog/installing-ubuntu-on-bare-metal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/installing-ubuntu-on-bare-metal/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/press/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/press/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/talks/africacyberfest/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/talks/africacyberfest/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/talks/futacybercareerfest/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/talks/futacybercareerfest/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/talks/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/talks/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
