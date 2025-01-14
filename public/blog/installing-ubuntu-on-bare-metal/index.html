@@ -17,8 +17,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="theme-color" content="#FFFFFF" />
   
-  <title>Installing Ubuntu on a Bare metal &middot; Olúmáyòwá.dev</title>
-    <meta name="title" content="Installing Ubuntu on a Bare metal &middot; Olúmáyòwá.dev" />
+  <title>Installing Ubuntu on Bare Metal &middot; Olúmáyòwá.dev</title>
+    <meta name="title" content="Installing Ubuntu on Bare Metal &middot; Olúmáyòwá.dev" />
   
   
   
@@ -74,7 +74,7 @@
   <meta
     name="description"
     content="
-      Installation of Ubuntu directly on a computer without virtualisation
+      Installation of Ubuntu directly on a computer without virtualization
     "
   />
   
@@ -102,15 +102,15 @@
   
   <meta property="og:url" content="http://localhost:1313/blog/installing-ubuntu-on-bare-metal/">
   <meta property="og:site_name" content="Olúmáyòwá.dev">
-  <meta property="og:title" content="Installing Ubuntu on a Bare metal">
-  <meta property="og:description" content="Installation of Ubuntu directly on a computer without virtualisation">
+  <meta property="og:title" content="Installing Ubuntu on Bare Metal">
+  <meta property="og:description" content="Installation of Ubuntu directly on a computer without virtualization">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="website">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Installing Ubuntu on a Bare metal">
-  <meta name="twitter:description" content="Installation of Ubuntu directly on a computer without virtualisation">
+  <meta name="twitter:title" content="Installing Ubuntu on Bare Metal">
+  <meta name="twitter:description" content="Installation of Ubuntu directly on a computer without virtualization">
 
   
   
@@ -475,37 +475,63 @@
   
   <header>
     
-    <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">Installing Ubuntu on a Bare metal</h1>
+    <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">Installing Ubuntu on Bare Metal</h1>
   </header>
   <section
     class="mt-0 prose flex max-w-full flex-col dark:prose-invert lg:flex-row"
   >
     
     <div class="min-h-0 min-w-0 max-w-prose grow">
-      <p>Bare metal is like a direct connection and in this scenario, your OS talks to the hardware without any middlemen. VM, on the other hand, is like a party hosted by another OS called the host OS. It uses a hypervisor (VMware, VirtualBox) to manage multiple virtual machines, each doing its own thing.</p>
-<p>The Good, the Not-so-Good, and the Challenges of Bare Metal and VM</p>
-<h2 id="bare-metal-basics" class="relative group">Bare Metal Basics <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#bare-metal-basics" aria-label="Anchor">#</a></span></h2><p>Pros:</p>
-<p>Smooth Performance: Your OS has the hardware all to itself, with no interruptions. It&rsquo;s all about optimal performance and reliability.</p>
-<p>Top-Notch Security: Your OS stands alone, away from other OSs or VMs. Less drama, fewer risks.</p>
-<p>Cons:</p>
-<p>Not Very Flexible: Can&rsquo;t easily change hardware or add more resources. One OS at a time – pick your favourite.</p>
-<p>Pricey Business: Needs its own hardware space, which can be costly. More hands-on maintenance too.</p>
-<p>VM Vibes</p>
-<p>Pros:</p>
-<p>Flexible Fun: Can run on any hardware supporting the host OS and hypervisor. Mix and match OSs like a pro.</p>
-<p>Budget-Friendly: Shares hardware resources, reducing costs. Automation magic for the win.</p>
-<p>Cons:</p>
-<p>Performance Bumps: Host OS and hypervisor involvement can slow things down. It&rsquo;s a party but with some hiccups.</p>
-<p>Security Considerations: Exposed to host OS risks. Relying on host OS security.</p>
-<p>Ubuntu Journey: From Windows Farewell to Fresh Start</p>
-<p>So, you&rsquo;re feeling adventurous and want to switch from Windows to Ubuntu? Here&rsquo;s your guide to a clean slate:</p>
-<p>Download Ubuntu: Grab the desktop version that matches your laptop&rsquo;s flavour (64-bit or 32-bit). <a href="https://ubuntu.com/download/desktop/thank-you?version=22.04.3&amp;architecture=amd64" target="_blank" rel="noreferrer">Download Ubuntu Desktop</a></p>
-<p>Get Rufus: It&rsquo;s the tool that puts ISO files on USB flash drives. Free, easy, and efficient. <a href="https://rufus.ie" target="_blank" rel="noreferrer">Download Rufus</a></p>
-<p>USB Time: Plug in an 8GB+ USB flash drive and open Rufus.</p>
-<p>Rufus Steps: Pick your USB, select the Ubuntu ISO file, and hit START. Let the writing commence!</p>
-<p>Boot Up: Restart your laptop, press the special key (usually F12, F10, or ESC), and choose USB as your boot star.</p>
-<p>Ubuntu Unveiling: Click &lsquo;Install Ubuntu,&rsquo; follow the steps, and when you get to &lsquo;Installation type,&rsquo; choose &ldquo;Erase disk and install Ubuntu&rdquo; for a full wipeout. Or get creative with &ldquo;Something else&rdquo; for manual partitioning.</p>
-<p>Finish Line: Complete the installation, add your details, and voila! Reboot without the USB – Ubuntu is now running the show on your laptop.</p>
+      <h2 id="understanding-bare-metal-vs-virtual-machines-vm" class="relative group">Understanding Bare Metal vs. Virtual Machines (VM) <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#understanding-bare-metal-vs-virtual-machines-vm" aria-label="Anchor">#</a></span></h2><p>Bare metal is like a direct connection—your OS talks to the hardware without any middlemen. A virtual machine (VM), on the other hand, is like a party hosted by another OS (the host OS). It uses a hypervisor (e.g., VMware, VirtualBox) to manage multiple virtual machines, each operating independently.</p>
+<h3 id="the-good-the-not-so-good-and-the-challenges-of-bare-metal-and-vm" class="relative group">The Good, the Not-So-Good, and the Challenges of Bare Metal and VM <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#the-good-the-not-so-good-and-the-challenges-of-bare-metal-and-vm" aria-label="Anchor">#</a></span></h3><h3 id="bare-metal-basics" class="relative group"><strong>Bare Metal Basics</strong> <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#bare-metal-basics" aria-label="Anchor">#</a></span></h3><h4 id="pros" class="relative group"><strong>Pros:</strong> <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#pros" aria-label="Anchor">#</a></span></h4><ul>
+<li><strong>Smooth Performance:</strong> Your OS has full access to hardware resources, ensuring optimal performance and reliability.</li>
+<li><strong>Top-Notch Security:</strong> Your OS is isolated from other OSs or VMs, reducing security risks.</li>
+</ul>
+<h4 id="cons" class="relative group"><strong>Cons:</strong> <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#cons" aria-label="Anchor">#</a></span></h4><ul>
+<li><strong>Limited Flexibility:</strong> Changing hardware or adding resources isn’t as easy. You’re limited to running one OS at a time.</li>
+<li><strong>Higher Costs:</strong> Dedicated hardware can be expensive, and maintenance requires more hands-on effort.</li>
+</ul>
+<h3 id="vm-vibes" class="relative group"><strong>VM Vibes</strong> <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#vm-vibes" aria-label="Anchor">#</a></span></h3><h4 id="pros-1" class="relative group"><strong>Pros:</strong> <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#pros-1" aria-label="Anchor">#</a></span></h4><ul>
+<li><strong>Greater Flexibility:</strong> Can run multiple OSs on the same hardware, making it easy to switch environments.</li>
+<li><strong>Cost-Effective:</strong> Shares hardware resources efficiently, reducing costs. Supports automation for better management.</li>
+</ul>
+<h4 id="cons-1" class="relative group"><strong>Cons:</strong> <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#cons-1" aria-label="Anchor">#</a></span></h4><ul>
+<li><strong>Performance Overhead:</strong> Host OS and hypervisor introduce some latency, potentially affecting performance.</li>
+<li><strong>Security Considerations:</strong> VMs depend on the security of the host OS, making them more vulnerable to host-related risks.</li>
+</ul>
+<hr>
+<h2 id="ubuntu-journey-from-windows-farewell-to-a-fresh-start" class="relative group"><strong>Ubuntu Journey: From Windows Farewell to a Fresh Start</strong> <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#ubuntu-journey-from-windows-farewell-to-a-fresh-start" aria-label="Anchor">#</a></span></h2><p>If you’re ready to switch from Windows to Ubuntu, follow this step-by-step guide for a clean installation.</p>
+<h3 id="1-download-ubuntu" class="relative group"><strong>1. Download Ubuntu</strong> <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#1-download-ubuntu" aria-label="Anchor">#</a></span></h3><p>Get the desktop version that matches your system architecture (64-bit or 32-bit).<br>
+➡️ <a href="https://ubuntu.com/download/desktop/thank-you?version=22.04.3&amp;architecture=amd64" target="_blank" rel="noreferrer">Download Ubuntu Desktop</a></p>
+<h3 id="2-get-rufus" class="relative group"><strong>2. Get Rufus</strong> <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#2-get-rufus" aria-label="Anchor">#</a></span></h3><p>Rufus is a tool that allows you to create a bootable USB drive from an ISO file. It’s free, easy, and efficient.<br>
+➡️ <a href="https://rufus.ie" target="_blank" rel="noreferrer">Download Rufus</a></p>
+<h3 id="3-prepare-your-usb-drive" class="relative group"><strong>3. Prepare Your USB Drive</strong> <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#3-prepare-your-usb-drive" aria-label="Anchor">#</a></span></h3><ul>
+<li>Insert an <strong>8GB or larger</strong> USB flash drive.</li>
+<li>Open <strong>Rufus</strong> and select your USB drive.</li>
+<li>Choose the <strong>Ubuntu ISO file</strong> you downloaded.</li>
+<li>Click <strong>START</strong> to begin creating the bootable drive.</li>
+</ul>
+<h3 id="4-boot-from-usb" class="relative group"><strong>4. Boot from USB</strong> <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#4-boot-from-usb" aria-label="Anchor">#</a></span></h3><ul>
+<li>Restart your laptop.</li>
+<li>Press the <strong>BIOS/boot menu key</strong> (typically <strong>F12, F10, or ESC</strong>).</li>
+<li>Select your USB flash drive as the boot device.</li>
+</ul>
+<h3 id="5-install-ubuntu" class="relative group"><strong>5. Install Ubuntu</strong> <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#5-install-ubuntu" aria-label="Anchor">#</a></span></h3><ul>
+<li>Click <strong>&ldquo;Install Ubuntu&rdquo;</strong> and follow the guided steps.</li>
+<li>When you reach <strong>&ldquo;Installation type&rdquo;</strong>, choose:
+<ul>
+<li><strong>&ldquo;Erase disk and install Ubuntu&rdquo;</strong> for a full wipe and fresh install.</li>
+<li><strong>&ldquo;Something else&rdquo;</strong> if you prefer manual partitioning.</li>
+</ul>
+</li>
+</ul>
+<h3 id="6-finalizing-installation" class="relative group"><strong>6. Finalizing Installation</strong> <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#6-finalizing-installation" aria-label="Anchor">#</a></span></h3><ul>
+<li>Complete the installation process.</li>
+<li>Enter your personal details when prompted.</li>
+<li>Restart your system <strong>without the USB drive</strong>.</li>
+</ul>
+<p>🎉 <strong>Congratulations! Ubuntu is now your primary operating system.</strong><br>
+Enjoy the power, flexibility, and security of running Ubuntu on bare metal!</p>
 
     </div>
   </section>

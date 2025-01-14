@@ -5,65 +5,75 @@ description: "My ADHD struggle"
 summary: "How I discovered I have ADHD and navigating life with it"
 ---
 
+# How I Discovered I Have ADHD and What It Means for My Tech Career
+
 I always knew I was different from my peers, but I never knew why. I struggled with staying focused, organizing my tasks, and managing my time. I thought I was just lazy or incompetent. It wasn’t until I was diagnosed with ADHD that I realized there was a reason for my behavior and that I wasn’t alone.
 
-ADHD stands for Attention Deficit Hyperactivity Disorder, a neurodevelopmental condition that affects how people process information, regulate emotions, and control impulses. ADHD can affect various aspects of life, such as work, relationships, and health. Some of the common symptoms of ADHD are:
+## Understanding ADHD
 
-            Difficulty paying attention or staying on task
+ADHD (Attention Deficit Hyperactivity Disorder) is a neurodevelopmental condition that affects how people process information, regulate emotions, and control impulses. It impacts various aspects of life, including work, relationships, and mental health. Some common symptoms of ADHD include:
 
-            Impulsivity or acting without thinking
+- Difficulty paying attention or staying on task
+- Impulsivity or acting without thinking
+- Hyperactivity or restlessness
+- Disorganization or poor planning
+- Low self-esteem or frustration
+- Mood swings or irritability
+- Anxiety or depression
 
-            Hyperactivity or restlessness
+## My Diagnosis and Realization
 
-            Disorganization or poor planning
+I found out I had ADHD in early 2023 after losing my dad, which took a serious toll on my mental health. A friend encouraged me to go to therapy, and during those sessions, I opened up about my struggles. My therapist suspected ADHD, and after undergoing two diagnostic assessments, it was confirmed.
 
-            Low self-esteem or frustration
+At first, I felt terrible. Then, it dawned on me—many of the emotions I struggled with, including intermittent depression, bottling up feelings, and confiding in strangers rather than close friends, had been present for years. My attention span was terrible, even though people often complimented me on how smart I was.
 
-            Mood swings or irritability
+## My Tech Journey with ADHD
 
-            Anxiety or depression
+I started my tech journey as a software engineer but later transitioned to Network engineering. I noticed that I often got distracted while coding, and my hyperactivity made it challenging to sit still for long hours. I thrived in networking, but over time, I had conversations with software engineers who helped me realize that my creative mind would be a great asset in coding or working alongside developers.
 
-I found out I had ADHD early 2023 after I lost my Dad and my mental health was a mess. My friend asked me to go into therapy and while in therapy I opened up on a lot that pointed to ADHD. I had it confirmed after two diagnoses. I felt terrible and it later dawned on me that most of my funny emotions and intermittent depression and wanting to always bottle in things when feeling messy and only confiding in strangers rather than family and close friends had been the case for so many years. Also, my attention span was terrible even when I got feedback on how smart I was.
+My passion for technology, problem-solving, and automation eventually led me to **DevOps**.
 
-I started my tech journey as a software engineer and left software for network engineering because I noticed I get distracted a lot and also I was always hyperactive whereas I needed the opposite to write those beautiful codes. I did network engineering as a career for some time and I got to have conversations with a few people in the software industry who made me know I have a creative mind and being back to expressing myself in codes or working around people writing the codes would be a beautiful transition for me. And my love for playing with technology, building stuff and making things work brought me to DevOps.
+## Why DevOps?
 
-DevOps is a set of practices that combines software development and IT operations to deliver software faster and more reliably. DevOps engineers are responsible for automating, testing, deploying, and monitoring software applications. Some of the skills and tools that DevOps engineers need to learn are:
+DevOps combines software development and IT operations to deliver software faster and more reliably. It aligns perfectly with my skills and interests. Some of the key tools and technologies I work with include:
 
-Docker, a platform that allows you to create, run, and share applications using containers
+- **Docker** – For creating, running, and sharing applications using containers
+- **Kubernetes** – For orchestrating and managing clusters of containers
+- **Terraform** – For defining and provisioning infrastructure as code
+- **Ansible** – For automating software configuration and deployment
+- **Jenkins** – For continuous integration and software delivery
 
-Kubernetes, a system that orchestrates and manages clusters of containers
+I’ve learned a lot through online platforms and by collaborating with other DevOps engineers. My ADHD gives me strengths like creativity, problem-solving, and a deep passion for learning. However, it also presents some challenges.
 
-Terraform, a tool that enables you to define and provision infrastructure as code
+## Challenges I Face with ADHD in Tech
 
-Ansible, a tool that automates software configuration and deployment
+Despite the advantages, ADHD also brings struggles in my professional life, including:
 
-Jenkins, a tool that automates the continuous integration and delivery of software
+- **Procrastination** – I tend to delay tasks that I find boring or difficult.
+- **Overwhelm** – Juggling multiple projects can quickly become chaotic.
+- **Documentation & Communication** – I struggle with writing detailed documentation and sometimes find it hard to express my thoughts clearly.
+- **Mood Swings & Isolation** – I occasionally feel misunderstood or lonely.
 
-I have been able to learn a lot using online learning platforms and also getting to collaborate with other DevOps engineers. I enjoy learning new things and solving problems, which are some of the strengths of having ADHD. However, I also face some challenges, such as:
+## Strategies That Help Me Cope
 
-Procrastinating on tasks that I find boring or difficult
+To navigate these challenges, I use several strategies and tools:
 
-Getting overwhelmed by working on a lot of things at the same time
+- **Therapy & Conversations** – Talking to friends in tech, attending psychotherapy, and confiding in close people.
+- **Task Management** – Breaking tasks into smaller chunks and using timers to stay focused.
+- **Productivity Tools** – Using apps and calendars to organize and prioritize work.
+- **Feedback & Mentorship** – Seeking advice from mentors and colleagues to stay on track.
+- **Self-Care** – Exercising, meditating, and ensuring I get enough rest.
 
-Struggling with documentation and communication
+## Embracing ADHD as My Strength
 
-Having mood swings and feeling lonely or misunderstood
+Living with ADHD isn't a curse or a weakness—it’s just a part of who I am. Sure, it presents challenges, but it also fuels my creativity, curiosity, and passion for technology.
 
-To cope with these challenges, I use some strategies and tools, such as:
+One interesting realization I had after my diagnosis was how **caffeine affected me**. I've been a coffee lover for years, but in 2023, I had to reduce my intake because it started causing hallucinations. It was a necessary adjustment, and I’m learning to listen to my body more.
 
-Talking to friends in the tech space, psychotherapy, and speaking to people close to me
+## Why I’m Sharing My Story
 
-Breaking tasks into little chunks and timing myself to work on them
+I’m sharing my ADHD journey not as a sob story but as an inspiration. If my experience can help others struggling with ADHD or those considering a career transition, then opening up about it is worth it.
 
-Using apps and calendars to organize and prioritize my work
+If you have thoughts or questions, drop them in the comments. If this post resonates with you, feel free to share it with others.
 
-Seeking feedback and support from my colleagues and mentors
-
-Exercising and meditating to relax and recharge
-
-Living with ADHD isn't a curse or a weakness; it's just a part of who I am and how I navigate the world. Sure, it comes with its set of challenges, but let me tell you, it's got its own perks too. Right from the moment I got that ADHD label, I decided to make it my ally rather than my adversary.
-
-Understanding that I have ADHD has been a game-changer. It's like having a secret weapon that boosts my creativity, fuels my curiosity, and fans the flames of my passion for technology. And you know what's interesting? It even led me to rethink my relationship with coffee. I've been a certified coffee aficionado for years, but things got a bit too wild last year when my caffeine intake started causing hallucinations. So, a little recalibration was in order, and I dialed down the coffee craze.
-
-I'm laying out my ADHD journey here not as a sob story but as a source of inspiration. If my tale can motivate others dealing with ADHD or contemplating a career change to go after their dreams, then sharing it is totally worth it. If you've got questions or thoughts, drop them in the comments. And hey, if this little snippet resonates with you, consider sharing it with your pals. 
-
+ **ADHD is not a limitation; it’s a different way of thinking, and it’s a superpower when harnessed correctly.**
