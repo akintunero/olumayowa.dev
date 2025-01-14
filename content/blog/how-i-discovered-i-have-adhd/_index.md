@@ -5,7 +5,7 @@ description: "My ADHD struggle"
 summary: "How I discovered I have ADHD and navigating life with it"
 ---
 
-# How I Discovered I Have ADHD and What It Means for My Tech Career
+
 
 I always knew I was different from my peers, but I never knew why. I struggled with staying focused, organizing my tasks, and managing my time. I thought I was just lazy or incompetent. It wasn’t until I was diagnosed with ADHD that I realized there was a reason for my behavior and that I wasn’t alone.
 
