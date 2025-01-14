@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e407361-8321-4a88-bf11-a7da084cfac0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/config/_default/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/languages.en.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/languages.en.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/menus.en.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/menus.en.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/module.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/module.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/params.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/params.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/about/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/press/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/press/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

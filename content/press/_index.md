@@ -11,7 +11,7 @@
 ### 👨‍💻 Empowering Nigerian Youth
 [Nigerian Youths Empowered with Free Tech Boot Camps to Combat Cybercrime](https://thenationonlineng.net/nigerian-youths-empowered-with-free-tech-boot-camps-to-combat-cybercrime/)
 
-### 🤝 Tech Community Engagement
+### 🤝 AfricaCyber Fest 2024
 [Tech Enthusiasts Gather in Lagos to Tackle Cybercrime](https://thenationonlineng.net/tech-enthusiasts-gather-in-lagos-to-tackle-cybercrime/)
 
 ---
