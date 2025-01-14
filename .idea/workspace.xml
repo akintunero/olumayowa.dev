@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e407361-8321-4a88-bf11-a7da084cfac0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/content/blog/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/blog/transforming-the-future-of-wireless-connectivity/_index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/how-i-discovered-i-have-adhd/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/how-i-discovered-i-have-adhd/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/installing-ubuntu-on-bare-metal/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/installing-ubuntu-on-bare-metal/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/blog/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/blog/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blog/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blog/transforming-the-future-of-wireless- onnectivity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/blog/transforming-the-future-of-wireless-connectivity" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
