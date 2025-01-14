@@ -1,0 +1,28 @@
+[[main]]
+name = "about"
+pageRef = "/about/"
+weight = 10
+
+[[main]]
+name = "talks"
+pageRef = "/talks/"
+weight = 20
+
+[[main]]
+name = "resume"
+url = "https://drive.google.com/file/d/1a2t3iNwcWYq8J6IwMKH1o1MaxOBtqlyT/view?usp=sharing"
+weight = 30
+[main.params]
+target = "_blank"
+
+[[main]]
+name = "projects"
+url = "https://github.com/akintunero/"
+weight = 40
+[main.params]
+target = "_blank"
+
+[[main]]
+name = "blog"
+pageRef = "/blog/"
+weight = 50

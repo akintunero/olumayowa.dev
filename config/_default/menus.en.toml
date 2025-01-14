@@ -1,40 +1,38 @@
-[[menu.main]]
-name = "about"
+# Main menu
+[[main]]
+name = "About"
 pageRef = "/about/"
 weight = 20
 
-[[menu.main]]
-name = "talks"
+[[main]]
+name = "Talks"
 pageRef = "/talks/"
 weight = 30
 
-[[menu.main]]
-name = "resume"
+[[main]]
+name = "Resume"
 url = "https://drive.google.com/file/d/1a2t3iNwcWYq8J6IwMKH1o1MaxOBtqlyT/view?usp=sharing"
 weight = 40
-[[menu.main.params]]
-target = "_blank"
+params = { target = "_blank" }
 
-[[menu.main]]
-name = "podcast"
+[[main]]
+name = "Podcast"
 url = "https://podcasters.spotify.com/pod/show/"
 weight = 50
-[[menu.main.params]]
-target = "_blank"
+params = { target = "_blank" }
 
-[[menu.main]]
-name = "blog"
+[[main]]
+name = "Blog"
 pageRef = "/blog/"
 weight = 60
 
-[[menu.main]]
-name = "projects"
+[[main]]
+name = "Projects"
 url = "https://github.com/akintunero/"
 weight = 70
-[[menu.main.params]]
-target = "_blank"
+params = { target = "_blank" }
 
-[[menu.main]]
+[[main]]
 name = "Press Features"
 pageRef = "/press/"
 weight = 80

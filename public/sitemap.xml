@@ -4,41 +4,53 @@
   
     
       <url>
-            <loc>https://olumayowa.dev/blog/</loc>
+            <loc>http://localhost:1313/blog/</loc>
             <lastmod>2024-01-23T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>https://olumayowa.dev/blog/installing-ubuntu-on-bare-metal/</loc>
+            <loc>http://localhost:1313/blog/installing-ubuntu-on-bare-metal/</loc>
             <lastmod>2024-01-23T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>https://olumayowa.dev/</loc>
+            <loc>http://localhost:1313/</loc>
             <lastmod>2024-01-23T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>https://olumayowa.dev/blog/how-i-discovered-i-have-adhd/</loc>
+            <loc>http://localhost:1313/blog/how-i-discovered-i-have-adhd/</loc>
             <lastmod>2023-12-13T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>https://olumayowa.dev/about/</loc>
+            <loc>http://localhost:1313/about/</loc>
           </url>
     
   
     
       <url>
-            <loc>https://olumayowa.dev/talks/africacyberfest/</loc>
+            <loc>http://localhost:1313/press/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/talks/africacyberfest/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/talks/futacybercareerfest/</loc>
           </url>
     
   
@@ -48,7 +60,7 @@
   
     
       <url>
-            <loc>https://olumayowa.dev/talks/</loc>
+            <loc>http://localhost:1313/talks/</loc>
           </url>
     
   

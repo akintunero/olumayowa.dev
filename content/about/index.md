@@ -1,11 +1,47 @@
 # Olúmáyòwá A.
 
-Hello! I am an experienced tech enthusiast with over 8 years of hands-on experience in telecommunications. My career kicked off as a Network Engineer, specialising in optimizing and maintaining complex network infrastructures. During this time, I explored the fibre optics technology after transitioning from wireless networking to exploring technologies like FTTx and eventually diving deep into Dense Wavelength Division Multiplexing (DWDM).
+Telecommunications expert, DevOps enthusiast, and passionate advocate for African youth empowerment with over a decade of experience in network engineering and submarine optical networks. My journey has taken me from wireless networking to the depths of the ocean, where I've helped connect continents and facilitate the flow of information across the globe.
 
-My journey into Submarine Optical Networks started with intensive training at the Ciena Learning Lab in London, UK. To further sharpen my expertise, I seized the opportunity to attend the Submarine Optical Communications summer school(a collaborative initiative by Google and Optica), held in Polvijari, Finland.
+## Professional Journey
 
-As a Lead Subsea Optical Networks Engineer, I spearheaded teams across 4 submarine cable landing stations spread across Africa and Europe. In this role, I facilitated the seamless transfer of over 800 Gbps of Internet traffic, leveraging subsea and land-based cable infrastructure.
+**Network Engineering**: Began as a Network Engineer, optimizing complex infrastructures and transitioning from wireless to fiber optics technologies like FTTx and DWDM.
 
-Being someone who enjoys automating stuff, I decided to transition into DevOps which I have been doing for almost 2 years now.
+**Submarine Optical Networks**: Gained specialized training at Ciena Learning Lab in London and attended the Google/Optica Submarine Optical Communications summer school in Polvijari, Finland.
 
-I am also a member of [Optica](https://www.optica.org/), [Suboptic](https://suboptic.org/), [Internet Society](https://www.internetsociety.org/), and also a Cisco Insider Champion and an Instructor with  [The Cisco Network Academy](https://netacad.com).
+**Leadership**: Led teams across 4 submarine cable landing stations in Africa and Europe, managing over 800 Gbps of Internet traffic.
+
+**DevOps Transition**: Leveraging my passion for automation, I've been immersed in DevOps practices for over 2 years.
+
+**Public Speaking and Mentorship**: Active public speaker and mentor, dedicated to supporting and empowering African youth to gain global recognition.
+
+## Expertise
+
+- Fiber Optics Technology
+- Dense Wavelength Division Multiplexing (DWDM)
+- Submarine Optical Networks
+- Network Optimization
+- Team Leadership
+- DevOps Practices
+- Cybersecurity
+- Public Speaking
+- Mentorship and Youth Empowerment
+
+## Professional Affiliations
+
+- Member of [Optica](https://www.optica.org/)
+- Member of [Suboptic](https://suboptic.org/)
+- Member of [Internet Society](https://www.internetsociety.org/)
+- Cisco Insider Champion
+- Instructor at [The Cisco Network Academy](https://netacad.com)
+
+## Ask Me About
+
+- The challenges of maintaining submarine cable networks
+- Transitioning from traditional networking to DevOps
+- The future of global internet infrastructure
+- How to get started in telecommunications engineering
+- Transitioning into Cybersecurity
+- Empowering African youth in the tech industry
+- Public speaking and mentorship opportunities in tech
+
+Passionate about connecting the world, automating processes, and empowering the next generation of African tech leaders, I'm always eager to discuss new technologies, collaborate on innovative projects, and mentor aspiring professionals in the telecom and DevOps spaces.

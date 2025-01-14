@@ -3,8 +3,6 @@ languageName = "English"
 weight = 1
 
 title = "Olúmáyòwá.dev"
-# copyright = "Copy, _right?_ :thinking_face:"
-
 
 [params]
 rtl = false
@@ -12,9 +10,8 @@ isoCode = "en"
 displayName = "EN"
 dateFormat = "January 2, 2006"
 description = "Olúmáyòwá Akinkuehinmi"
-# mainSections = ["section1", "section2"]
 
-[author]
+[params.author]
 bio = "DevOps • Submarine Cable Networks • DevNet • CyberSecurity"
 name = "Olúmáyòwá Akinkuehinmi"
 image = "img/author.jpg"
@@ -23,8 +20,7 @@ links = [
     { name = "email", url = "mailto:olumayowa@olumayowa.dev" },
     { name = "github", url = "https://github.com/akintunero" },
     { name = "linkedin", url = "https://linkedin.com/in/olumayowaa" },
-    { name = "substack", url = "https://akintunero.substack.com/" },
     { name = "telegram", url = "https://t.me/akintunero" },
-    { name = "spotify", url = "https://open.spotify.com/user/your_profile" }, # Corrected Spotify
-    { name = "twitter", url = "https://x.com/akintunero" } # Fixed key name
+    { name = "spotify", url = "https://open.spotify.com/user/your_profile" },
+    { name = "twitter", url = "https://x.com/akintunero" }
 ]
