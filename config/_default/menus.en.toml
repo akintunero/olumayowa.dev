@@ -1,4 +1,3 @@
-# -- Main Menu --
 [[menu.main]]
 name = "about"
 pageRef = "/about/"
@@ -13,14 +12,14 @@ weight = 30
 name = "resume"
 url = "https://drive.google.com/file/d/1a2t3iNwcWYq8J6IwMKH1o1MaxOBtqlyT/view?usp=sharing"
 weight = 40
-[menu.main.params]
+[menu.main.params]  #
 target = "_blank"
 
 [[menu.main]]
 name = "podcast"
 url = "https://podcasters.spotify.com/pod/show/"
 weight = 50
-[params]
+[menu.main.params]  #
 target = "_blank"
 
 [[menu.main]]
@@ -32,7 +31,7 @@ weight = 60
 name = "projects"
 url = "https://github.com/akintunero/"
 weight = 70
-[params]
+[menu.main.params]  #
 target = "_blank"
 
 [[menu.main]]
