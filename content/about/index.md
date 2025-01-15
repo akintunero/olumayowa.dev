@@ -1,6 +1,6 @@
 # Olúmáyòwá A.
 
-Telecommunications expert, DevOps enthusiast, and passionate advocate for African youth empowerment with over a decade of experience in network engineering and submarine optical networks. My journey has taken me from wireless networking to the depths of the ocean, where I've helped connect continents and facilitate the flow of information across the globe.
+Telecommunications and DevOps enthusiast, and passionate advocate for African youth empowerment with over a decade of experience in network engineering and submarine optical networks. My journey has taken me from wireless networking to the depths of the ocean, where I've helped connect continents and facilitate the flow of information across the globe.
 
 ## Professional Journey
 

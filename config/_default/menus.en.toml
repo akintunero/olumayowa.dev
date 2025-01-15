@@ -11,7 +11,7 @@ weight = 30
 
 [[main]]
 name = "Resume"
-url = "https://drive.google.com/file/d/1a2t3iNwcWYq8J6IwMKH1o1MaxOBtqlyT/view?usp=sharing"
+url = "https://drive.google.com/file/d/1psWHY2CDFMBCieaWdrkZTq3lOFbX4rxj/view?usp=sharing"
 weight = 40
 params = { target = "_blank" }
 

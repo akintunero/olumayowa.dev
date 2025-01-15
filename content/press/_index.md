@@ -2,10 +2,10 @@
 
 ## 📰 Featured Articles
 
-### 🌍 Cybersecurity & Economic Impact
+### 🔐 Cybersecurity & Economic Impact
 [The Economic Impact of WhatsApp Hijacking on West African Businesses](https://tribuneonlineng.com/the-economic-impact-of-whatsapp-hijacking-on-west-african-businesses/)
 
-### 🚀 DevOps in Nigeria
+### ♾️ DevOps in Nigeria
 [How Nigeria Can Overcome Infrastructure Barriers to Boost DevOps Adoption](https://techpressionmedia.com/how-nigeria-can-overcome-infrastructure-barriers-to-boost-devops-adoption/)
 
 ### 👨‍💻 Empowering Nigerian Youth

@@ -38,6 +38,56 @@
     
   
     
+  
+    
+      <url>
+            <loc>http://localhost:1313/talks/ciscoedgexcyblack/</loc>
+            <lastmod>2024-11-29T10:00:00+01:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/talks/</loc>
+            <lastmod>2024-11-29T10:00:00+01:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/talks/netclan-line/</loc>
+            <lastmod>2024-10-03T10:00:00+01:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/talks/africacyberfest/</loc>
+            <lastmod>2024-05-20T09:00:00+01:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+    
       <url>
             <loc>http://localhost:1313/blog/installing-ubuntu-on-bare-metal/</loc>
             <lastmod>2024-01-23T00:00:00+00:00</lastmod>
@@ -65,24 +115,10 @@
   
     
       <url>
-            <loc>http://localhost:1313/talks/africacyberfest/</loc>
-          </url>
-    
-  
-    
-      <url>
             <loc>http://localhost:1313/talks/futacybercareerfest/</loc>
           </url>
     
   
-    
-  
-    
-  
-    
-      <url>
-            <loc>http://localhost:1313/talks/</loc>
-          </url>
     
   
 </urlset>
