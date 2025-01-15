@@ -2,13 +2,13 @@
 title: "Cisco Edge Nigeria x Cyblack"
 date: 2024-11-29T10:00:00+01:00
 draft: false
-description: "Speaker at Cisco Edge Nigeria x Cyblack event, discussing network backbone connectivity and tech career development"
+description: "Speaker at Cisco Edge Nigeria x CyBlack event, discussing network backbone connectivity and tech career development"
 tags: ["speaking", "networking", "career development", "submarine optical networking", "GSM", "mobile communication"]
 ---
 ![IMG_0506.JPG](../../../assets/img/IMG_0506.JPG)
 ## Event Details
 
-- **Event:** Cisco Edge Nigeria x Cyblack
+- **Event:** Cisco Edge Nigeria x CyBlack
 - **Date:** Thursday, November 28, 2024
 - **Time:** 10:00 AM
 - **Role:** Speaker and Instructor
