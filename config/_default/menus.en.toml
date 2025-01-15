@@ -16,23 +16,17 @@ weight = 40
 params = { target = "_blank" }
 
 [[main]]
-name = "Podcast"
-url = "https://podcasters.spotify.com/pod/show/"
-weight = 50
-params = { target = "_blank" }
-
-[[main]]
 name = "Blog"
 pageRef = "/blog/"
-weight = 60
+weight = 50
 
 [[main]]
 name = "Projects"
 url = "https://github.com/akintunero/"
-weight = 70
+weight = 60
 params = { target = "_blank" }
 
 [[main]]
 name = "Press Features"
 pageRef = "/press/"
-weight = 80
+weight = 70
