@@ -12,10 +12,10 @@ dateFormat = "January 2, 2006"
 description = "Olúmáyòwá Akinkuehinmi"
 
 [params.author]
-bio = "DevOps • Submarine Cable Networks • DevNet • CyberSecurity"
+bio = "DevSecOps • Submarine Cable Networks • DevNet • CyberSecurity"
 name = "Olúmáyòwá Akinkuehinmi"
 image = "img/author.jpg"
-headline = "DevOps • Submarine Cable Networks • DevNet • CyberSecurity"
+headline = "DevSecOps • Submarine Cable Networks • DevNet • CyberSecurity"
 links = [
     { name = "email", url = "mailto:olumayowa@olumayowa.dev" },
     { name = "github", url = "https://github.com/akintunero" },
