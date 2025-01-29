@@ -14,8 +14,7 @@ tags: ["speaking", "cybersecurity", "networking", "mentorship", "LAUTECH"]
 - **Role:** Keynote Speaker
 - **Presentation Title:** The Power of Networking: Leveraging Communities, Mentors, and Conferences to Advance Your Cybersecurity Journey
 
-
-![GhmrPHCWEAA3qb5.jpg](../../../resources/_gen/images/assets/img/GhmrPHCWEAA3qb5.jpg)
+content/talks/LAUTechCyberSecurityConference2025/_index.md
 
 
 ## Overview
@@ -30,7 +29,7 @@ The conference featured:
 2. Engaging discussions on career development and cybersecurity trends
 3. Networking opportunities for students and professionals
 
-![lautech.jpg](../../../resources/_gen/images/assets/img/lautech.jpg)
+
 
 ## Key Contributions
 
@@ -40,8 +39,6 @@ In my keynote address, I shared insights on:
 - How to leverage mentors for professional growth
 - The transformative power of attending cybersecurity events and conferences
 - Practical steps for building meaningful connections in the cybersecurity community
-- 
-![lautech2.jpg](../../../resources/_gen/images/assets/img/lautech2.jpg)
 
 ## Impact and Networking
 
