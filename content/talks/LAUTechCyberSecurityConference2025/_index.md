@@ -14,7 +14,6 @@ tags: ["speaking", "cybersecurity", "networking", "mentorship", "LAUTECH"]
 - **Role:** Keynote Speaker
 - **Presentation Title:** The Power of Networking: Leveraging Communities, Mentors, and Conferences to Advance Your Cybersecurity Journey
 
-content/talks/LAUTechCyberSecurityConference2025/_index.md
 
 
 ## Overview
