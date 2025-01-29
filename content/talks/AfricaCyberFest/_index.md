@@ -28,7 +28,6 @@ During the panel on "Changing the Negative Narrative of African Youth," I shared
 ![138A0632.JPG](../../../assets/img/138A0632.JPG)
 ## Event Highlights
 
-- **Attendance:** Approximately 1,000 onsite attendees and over 300 virtual participants
 - **Format:** Two-day event with both onsite and virtual attendance options
 - **Activities:** Expert sessions, workshops, networking, hacking demonstrations, and Capture the Flag competition
 

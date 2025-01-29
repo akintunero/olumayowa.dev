@@ -44,4 +44,4 @@ Telecommunications and DevOps enthusiast, and passionate advocate for African yo
 - Empowering African youth in the tech industry
 - Public speaking and mentorship opportunities in tech
 
-Passionate about connecting the world, automating processes, and empowering the next generation of African tech leaders, I'm always eager to discuss new technologies, collaborate on innovative projects, and mentor aspiring professionals in the telecom and DevOps spaces.
+Passionate about connecting the world, automating processes, and empowering the next generation of African tech leaders, I'm always eager to discuss new technologies, collaborate on innovative projects, and mentor aspiring professionals in the Telecommunications and DevOps spaces.
