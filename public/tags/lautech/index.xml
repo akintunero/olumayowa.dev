@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LAUTECH on Olúmáyòwá.dev</title>
+    <link>http://localhost:1313/tags/lautech/</link>
+    <description>Recent content in LAUTECH on Olúmáyòwá.dev</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Jan 2025 10:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lautech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LAUTECH Cybersecurity Conference 2025</title>
+      <link>http://localhost:1313/talks/lautechcybersecurityconference2025/</link>
+      <pubDate>Sat, 18 Jan 2025 10:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/talks/lautechcybersecurityconference2025/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

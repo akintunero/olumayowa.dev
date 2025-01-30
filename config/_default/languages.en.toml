@@ -17,10 +17,10 @@ name = "Olúmáyòwá Akinkuehinmi"
 image = "img/author.jpg"
 headline = "DevSecOps • Submarine Cable Networks • DevNet • CyberSecurity"
 links = [
-    { name = "email", url = "mailto:olumayowa@olumayowa.dev" },
-    { name = "github", url = "https://github.com/akintunero" },
-    { name = "linkedin", url = "https://linkedin.com/in/olumayowaa" },
-    { name = "telegram", url = "https://t.me/akintunero" },
-    { name = "spotify", url = "https://open.spotify.com/user/your_profile" },
-    { name = "twitter", url = "https://x.com/akintunero" }
+    { email = "mailto:olumayowa@olumayowa.dev" },
+    { github = "https://github.com/akintunero" },
+    { linkedin = "https://linkedin.com/in/olumayowaa" },
+    { telegram = "https://t.me/akintunero" },
+    { spotify = "https://open.spotify.com/user/your_profile" },
+    { twitter = "https://x.com/akintunero" }
 ]
