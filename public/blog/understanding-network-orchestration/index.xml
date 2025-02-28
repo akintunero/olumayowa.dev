@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Understanding Network Orchestration: How Automation Streamlines Complex Network Tasks on Olúmáyòwá.dev</title>
-    <link>http://localhost:1313/blog/understanding-network-orchestration/</link>
-    <description>Recent content in Understanding Network Orchestration: How Automation Streamlines Complex Network Tasks on Olúmáyòwá.dev</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/understanding-network-orchestration/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+    <channel>
+        <title>Understanding Network Orchestration: How Automation Streamlines Complex Network Tasks on Olúmáyòwá.dev</title>
+        <link>http://localhost:1313/blog/understanding-network-orchestration/</link>
+        <description>Recent blog posts from Olúmáyòwá.dev</description>
+        <generator>Hugo -- gohugo.io</generator>
+        
+        <language>en</language>
+        
+        
+        
+        
+        <lastBuildDate>Wed, 22 Jan 2025 20:08:56 +0000</lastBuildDate>
+        
+        
+        <atom:link href="http://localhost:1313/blog/understanding-network-orchestration/index.xml" rel="self" type="application/rss+xml" />
+        
+        
+    </channel>
 </rss>

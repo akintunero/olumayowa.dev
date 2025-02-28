@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>How I Discovered I Have ADHD and What It Means for My Tech Career on Olúmáyòwá.dev</title>
-    <link>http://localhost:1313/blog/how-i-discovered-i-have-adhd/</link>
-    <description>Recent content in How I Discovered I Have ADHD and What It Means for My Tech Career on Olúmáyòwá.dev</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/how-i-discovered-i-have-adhd/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+    <channel>
+        <title>How I Discovered I Have ADHD and What It Means for My Tech Career on Olúmáyòwá.dev</title>
+        <link>http://localhost:1313/blog/how-i-discovered-i-have-adhd/</link>
+        <description>Recent blog posts from Olúmáyòwá.dev</description>
+        <generator>Hugo -- gohugo.io</generator>
+        
+        <language>en</language>
+        
+        
+        
+        
+        <lastBuildDate>Wed, 13 Dec 2023 00:00:00 +0000</lastBuildDate>
+        
+        
+        <atom:link href="http://localhost:1313/blog/how-i-discovered-i-have-adhd/index.xml" rel="self" type="application/rss+xml" />
+        
+        
+    </channel>
 </rss>
