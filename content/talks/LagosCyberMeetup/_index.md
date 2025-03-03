@@ -1,6 +1,6 @@
 ---
 title: "Lagos Cybersecurity Meetup: DoHAfrica x Cisco Edge Africa"
-date: 2024-03-01T10:00:00+01:00
+date: 2025-03-01T10:00:00+01:00
 draft: false
 description: "Speaker at Lagos Cybersecurity Meetup, discussing AI in Network Engineering, Automation, and Threat Detection"
 tags: ["speaking", "cybersecurity", "AI", "network engineering", "automation", "threat detection"]
@@ -8,24 +8,26 @@ tags: ["speaking", "cybersecurity", "AI", "network engineering", "automation", "
 
 ## Event Details
 
-- **Event:** Lagos Cybersecurity Meetup: DiaryofHackersAfrica x Cisco Edge Africa
-- **Date:** Friday, March 1, 2024
+- **Event:** Lagos Cybersecurity Meetup: DoHAfrica x Cisco Edge Africa
+- **Date:** Saturday, March 1, 2025
 - **Theme:** Man vs Machine
 - **Role:** Speaker
-- 
-![IRV_0834.jpg](../../../public/assets/img/IRV_0834.jpg)
+
+![Cybersecurity Meetup Overview](../assets/img/IRV_0897.jpg)
 
 ## Overview
 
-I had the privilege of speaking at the Lagos Cybersecurity Meetup, a collaborative event organized by DiaryofHackersAfrica and Cisco Edge Africa. The event, centered around the theme "Man vs Machine," brought together over 100 cybersecurity professionals and enthusiasts to explore the intersection of artificial intelligence and cybersecurity.
+I had the privilege of speaking at the Lagos Cybersecurity Meetup, a collaborative event organized by DoHAfrica and Cisco Edge Africa. The event, centered around the theme "Man vs Machine," brought together over 100 cybersecurity professionals and enthusiasts to explore the intersection of artificial intelligence and cybersecurity.
 
 ## Key Topics Covered
 
 My presentation focused on three critical areas where AI is making significant impacts:
 
 1. AI in Network Engineering
-2. Automation in Cybersecurity
+2. AI in Cybersecurity
 3. AI-Driven Threat Detection
+
+![Presentation in Progress](../assets/img/IRV_0834.jpg)
 
 ### Evolution of Network Engineering
 
@@ -57,8 +59,8 @@ My presentation focused on three critical areas where AI is making significant i
 - NetFlow Analytics
 - Cisco XDR
 - SOAR (Security Orchestration, Automation, and Response)
-- 
-![IRV_0830.jpg](../../../public/assets/img/IRV_0830.jpg)
+
+![Discussing Key Tools](../assets/img/IRV_0830.jpg)
 
 ### Challenges and Future Trends
 
@@ -67,8 +69,8 @@ My presentation focused on three critical areas where AI is making significant i
 - Bridging skill gaps and ensuring workforce readiness
 - Integration challenges with legacy infrastructure
 - Future developments in 6G, Edge Computing, Quantum Networking, and AI-driven Digital Twins
-- 
-![IRV_0897.jpg](../../../public/assets/img/IRV_0897.jpg)
+
+![Challenges and Future Trends](../assets/img/IRV_0897.jpg)
 
 ## Impact and Networking
 
