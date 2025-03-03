@@ -5,7 +5,7 @@
 ### 🔐 Cybersecurity & Economic Impact
 [The Economic Impact of WhatsApp Hijacking on West African Businesses](https://tribuneonlineng.com/the-economic-impact-of-whatsapp-hijacking-on-west-african-businesses/)
 
-### ♾️ DevOps in Nigeria
+### ♾️ DevOps adoption in Nigeria
 [How Nigeria Can Overcome Infrastructure Barriers to Boost DevOps Adoption](https://techpressionmedia.com/how-nigeria-can-overcome-infrastructure-barriers-to-boost-devops-adoption/)
 
 ### 👨‍💻 Empowering Nigerian Youth
@@ -14,5 +14,6 @@
 ### 🤝 AfricaCyber Fest 2024
 [Tech Enthusiasts Gather in Lagos to Tackle Cybercrime](https://thenationonlineng.net/tech-enthusiasts-gather-in-lagos-to-tackle-cybercrime/)
 
----
+### 🛡️ Diary of Hackers Meetup - Man vs Machine
+[Experts advocate AI-driven security measures at Lagos cybersecurity meetup](https://thenationonlineng.net/experts-advocate-ai-driven-security-measures-at-lagos-cybersecurity-meetup/)
 
