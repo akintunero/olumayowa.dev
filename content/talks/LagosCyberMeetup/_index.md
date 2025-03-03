@@ -13,7 +13,6 @@ tags: ["speaking", "cybersecurity", "AI", "network engineering", "automation", "
 - **Theme:** Man vs Machine
 - **Role:** Speaker
 
-![Cybersecurity Meetup Overview](../assets/img/IRV_0897.jpg)
 
 ## Overview
 
@@ -27,7 +26,6 @@ My presentation focused on three critical areas where AI is making significant i
 2. AI in Cybersecurity
 3. AI-Driven Threat Detection
 
-![Presentation in Progress](../assets/img/IRV_0834.jpg)
 
 ### Evolution of Network Engineering
 
@@ -60,7 +58,6 @@ My presentation focused on three critical areas where AI is making significant i
 - Cisco XDR
 - SOAR (Security Orchestration, Automation, and Response)
 
-![Discussing Key Tools](../assets/img/IRV_0830.jpg)
 
 ### Challenges and Future Trends
 
@@ -70,7 +67,6 @@ My presentation focused on three critical areas where AI is making significant i
 - Integration challenges with legacy infrastructure
 - Future developments in 6G, Edge Computing, Quantum Networking, and AI-driven Digital Twins
 
-![Challenges and Future Trends](../assets/img/IRV_0897.jpg)
 
 ## Impact and Networking
 
